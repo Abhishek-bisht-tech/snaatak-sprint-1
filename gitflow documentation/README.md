@@ -53,27 +53,10 @@ As software development projects grow in complexity, managing multiple versions 
 A simplified view of the Git Flow branching model is shown below:
 
 
-```text
-          +------------------------------------+
-          |             Main Branch            |
-          |        (Production-Ready Code)     |
-          +------------------------------------+
-                         ^
-                         |
-           +-------------+-------------+
-           |                           |
-   +---------------+          +----------------+
-   | Develop Branch| <------> | Feature Branch |
-   +---------------+          +----------------+
-           |
-   +----------------+          +----------------+
-   | Release Branch | <------> | Hotfix Branch  |
-   +----------------+          +----------------+
-                         |
-                         v
-                 Merge back to Main
-```
+<img width="845" height="546" alt="Screenshot from 2025-11-10 10-51-00" src="https://github.com/user-attachments/assets/db68bdea-1025-4eca-8a6d-e0f7013ed38b" />
 
+
+---
 
 
 ### **Branch Types and Purpose**
