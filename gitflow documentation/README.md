@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627603527831/wOyBmvStM.png" alt="Git Flow Workflow Diagram" width="700"/>
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627603527831/wOyBmvStM.png" alt="Git Flow Workflow Diagram" width="450"/>
 </p>
 
 # **Git Flow Documentation**
@@ -32,10 +31,7 @@
 
 ## **Introduction**
 
-In this documentation, we will discuss **Git Flow**, a structured branching model for Git that helps teams organize and streamline their development process.  
-Git Flow was introduced by **Vincent Driessen** and provides a clear framework for handling feature development, releases, and hotfixes efficiently in collaborative environments.  
-
-It is especially suitable for **projects with scheduled releases** and teams working on multiple features in parallel.
+This documentation explains the **Git Flow branching strategy**, detailing its workflow, benefits, and drawbacks to help teams manage software development efficiently. It also includes diagrams, references, and contact details for better understanding and implementation.
 
 ---
 
@@ -56,6 +52,8 @@ As software development projects grow in complexity, managing multiple versions 
 
 A simplified view of the Git Flow branching model is shown below:
 
+
+```text
           +------------------------------------+
           |             Main Branch            |
           |        (Production-Ready Code)     |
@@ -74,6 +72,7 @@ A simplified view of the Git Flow branching model is shown below:
                          |
                          v
                  Merge back to Main
+```
 
 
 
