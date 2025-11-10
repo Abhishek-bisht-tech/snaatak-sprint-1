@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627603527831/wOyBmvStM.png" alt="Git Flow Diagram" width="500"/>
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627603527831/wOyBmvStM.png" alt="Git Flow Diagram" width="350"/>
 </p>
 
 # **Git Flow Documentation**
