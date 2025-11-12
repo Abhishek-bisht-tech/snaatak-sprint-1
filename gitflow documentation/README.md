@@ -1,9 +1,8 @@
+
+# **Git Flow Documentation**
 <p align="center">
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627603527831/wOyBmvStM.png" alt="Git Flow Diagram" width="250"/>
 </p>
-
-# **Git Flow Documentation**
-
 ---
 
 **Author Table**
@@ -14,7 +13,6 @@
 | Abhishek | 2025-11-10 |  | Abhishek | 2025-11-10 | L0 Review |  |
 | Abhishek | 2025-11-10 |  | Abhishek | 2025-11-10 | L1 Review |  |
 | Abhishek | 2025-11-10 |  | Abhishek | 2025-11-10 | L2 Review |  |
-
 ---
 
 ## **Table of Contents**
@@ -28,6 +26,7 @@
 - [References](#references)
 
 ---
+
 
 ## **Introduction**
 
